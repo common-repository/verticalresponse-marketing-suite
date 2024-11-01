@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.clickable{
+    cursor: pointer;   
+}
+.panel-heading span {
+    /*margin-top: -20px;*/
+    font-size: 15px;
+}
+select.form-control[multiple] {
+    min-height: 200px !important;
+}
